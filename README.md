@@ -1,13 +1,8 @@
 Team members:
-
 Danilov Viacheslav (K16EPKOTJIETKA) - author of the idea, game designer, programmer, team lead
-
 Kateryna Karpova - Environment artist, UI designer
-
 Andrii Yushchenko - programmer
-
 Yehor Khodak - programmer, game design support 
-
 Anton Zaporozhchenko - programmer support
 
 Humanity has long moved beyond Earth’s orbit and mastered most of the Solar System.
