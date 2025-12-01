@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce7c7887ce6c6547a63e166b67fd87a, type: 3}
+  m_Name: message6
+  m_EditorClassIdentifier: 
+  id: 6
+  signalId: 0
+  message: 'Thanks to the information received from you, we were able to successfully
+    carry out an operation to free our people from captivity. Good job!
+
+
+    Now
+    the Coalition needs to catch up with the Earth''s technology. Their ships appear
+    out of nowhere, their cannons strike more accurately and powerfully, and their
+    radars see farther. It''s time to visit a place to which only the Earth has access,
+    and find out what is hidden in the shadow of Pallas. However, this place is very
+    well protected, so we need a detailed plan. We await useful information from
+    you.
+
+
+    The Free Belt Coalition'

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal56
+  m_EditorClassIdentifier: 
+  id: 56
+  importance: -10
+  formula: 1
+  necessaryReinforcement: 56
+  amplitude: 0.487
+  frequency: 149
+  signalType: 0
+  demodulationProtocol: 1
+  decoderCode: {fileID: 11400000, guid: e2ab271730b6b64448856c793dda8031, type: 2}
+  countOfDemodulationCharacters: 65
+  isPicture: 0
+  text: 'Today they want to destroy Ceres.
+
+    Tomorrow, every station that dares
+    to think differently.
+
+    We must stop them now!'
+  image: {fileID: 0}
+  isNoUrgency: 1
+  urgency: 75
+  noisePower: 0

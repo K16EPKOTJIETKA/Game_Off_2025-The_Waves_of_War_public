@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal66
+  m_EditorClassIdentifier: 
+  id: 66
+  importance: 14
+  formula: 1
+  necessaryReinforcement: 18
+  amplitude: 0.5
+  frequency: 174
+  signalType: 1
+  demodulationProtocol: 1
+  decoderCode: {fileID: 11400000, guid: 64bf4842a5e1a044aa9d4d3d6733a9f2, type: 2}
+  countOfDemodulationCharacters: 107
+  isPicture: 0
+  text: "Source: High Hill Station \nIf someone hacks the prison's maintenance system,
+    they can force open the airlocks in Sector H. The security there is the outdated
+    R-21 protocol. I understand the repairs have been delayed, but I warn you\u2014this
+    is a weak point."
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 300
+  noisePower: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal9
+  m_EditorClassIdentifier: 
+  id: 9
+  importance: 2
+  formula: 2
+  necessaryReinforcement: 65
+  amplitude: 0.5
+  frequency: 187
+  signalType: 0
+  demodulationProtocol: 2
+  decoderCode: {fileID: 11400000, guid: dd8d354fd16226f4d93121d60a6a8b2b, type: 2}
+  countOfDemodulationCharacters: 139
+  isPicture: 0
+  text: Build&Fly's research department has completed testing of a new alloy for
+    hull panels. The material has been approved for use.
+  image: {fileID: 0}
+  isNoUrgency: 1
+  urgency: 75
+  noisePower: 0

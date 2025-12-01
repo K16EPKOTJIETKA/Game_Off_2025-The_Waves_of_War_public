@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal68
+  m_EditorClassIdentifier: 
+  id: 68
+  importance: 12
+  formula: 0
+  necessaryReinforcement: 38
+  amplitude: 0.46
+  frequency: 133
+  signalType: 1
+  demodulationProtocol: 0
+  decoderCode: {fileID: 11400000, guid: 64bf4842a5e1a044aa9d4d3d6733a9f2, type: 2}
+  countOfDemodulationCharacters: 54
+  isPicture: 0
+  text: "Source: High Hill Station \nCaptain, after every power outage, the access
+    code to Armory Alpha resets to the default 0-0-0-0. We need to order new doors
+    that won't respond to power outages. If the prisoners discover this vulnerability,
+    there will be no end to the problems."
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 280
+  noisePower: 0

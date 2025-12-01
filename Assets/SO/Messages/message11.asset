@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce7c7887ce6c6547a63e166b67fd87a, type: 3}
+  m_Name: message11
+  m_EditorClassIdentifier: 
+  id: 11
+  signalId: 0
+  message: 'We were able to damage the "Excalibur" station, but destroying it completely
+    turned out to be beyond our power. The Belt lost many excellent and loyal fighters
+    in this battle.
+
+
+    The chances of negotiating with the Earth are small, but
+    we will try. The Coalition will send diplomats for negotiations with the Earthlings.
+    Until then, wait for further instructions.
+
+
+    The Free Belt Coalition'

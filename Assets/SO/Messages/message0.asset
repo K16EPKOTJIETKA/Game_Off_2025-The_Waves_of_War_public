@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce7c7887ce6c6547a63e166b67fd87a, type: 3}
+  m_Name: message0
+  m_EditorClassIdentifier: 
+  id: 0
+  signalId: 0
+  message: "We are happy to welcome you to the station, fighter for freedom. You
+    have proven yourself excellently as a radio operator, and we hope that thanks
+    to your skills, we will be able to bring our independence closer. Through this
+    channel, we will maintain communication and transmit instructions.\n\nYour task
+    is to intercept and send any information that may be useful to the Coalition.
+    The first goal is the \"Build&Fly\" shipyard. Without a fleet and the ability
+    to repair ships, we are doomed to defeat.\n\nGood luck, fighter for freedom.
+    \n\nThe Free Belt Coalition"

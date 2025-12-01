@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal79
+  m_EditorClassIdentifier: 
+  id: 79
+  importance: 12
+  formula: 1
+  necessaryReinforcement: 95
+  amplitude: 0.436
+  frequency: 231
+  signalType: 1
+  demodulationProtocol: 1
+  decoderCode: {fileID: 11400000, guid: 2f6ca33f5ba8e5149a12a885efe51c6c, type: 2}
+  countOfDemodulationCharacters: 138
+  isPicture: 0
+  text: "Source: Excalibur Station \nAttention all patrol ships. Spent missile stages
+    will be jettisoned in Sector 5 over the next five days. Automated turrets have
+    been set to \"\"trash ignore\"\" mode. Any object smaller than 3 meters will
+    be classified as debris."
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 220
+  noisePower: 0

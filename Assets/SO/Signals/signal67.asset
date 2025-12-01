@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal67
+  m_EditorClassIdentifier: 
+  id: 67
+  importance: 10
+  formula: 2
+  necessaryReinforcement: 68
+  amplitude: 0.5
+  frequency: 202
+  signalType: 1
+  demodulationProtocol: 2
+  decoderCode: {fileID: 11400000, guid: dd8d354fd16226f4d93121d60a6a8b2b, type: 2}
+  countOfDemodulationCharacters: 147
+  isPicture: 0
+  text: "Source: High Hill Station \nSector C remains a weak point. Corridor C-17
+    leads directly to the cargo shafts, where there are virtually no security cameras.
+    Anyone with the right key can access the ammunition depots. We've already requested
+    increased security, but command says there are \"\"no resources.\"\" And how
+    can the largest prison in the Belt have no resources?"
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 320
+  noisePower: 0

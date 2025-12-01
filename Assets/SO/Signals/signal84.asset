@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal84
+  m_EditorClassIdentifier: 
+  id: 84
+  importance: 14
+  formula: 1
+  necessaryReinforcement: 95
+  amplitude: 0.5
+  frequency: 177
+  signalType: 1
+  demodulationProtocol: 1
+  decoderCode: {fileID: 11400000, guid: 29d904ec0e012e146a2d14c4535c267d, type: 2}
+  countOfDemodulationCharacters: 191
+  isPicture: 0
+  text: The invasion fleet consists of 60 fighters, 20 destroyers, 10 cruisers, and
+    3 battleships. The battleship Nemesis leads the force. Admiral Marcus Grey commands
+    the operation.
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 120
+  noisePower: 0

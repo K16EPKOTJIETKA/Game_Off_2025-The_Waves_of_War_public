@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal28
+  m_EditorClassIdentifier: 
+  id: 28
+  importance: -10
+  formula: 0
+  necessaryReinforcement: 51
+  amplitude: 0.5
+  frequency: 167
+  signalType: 0
+  demodulationProtocol: 0
+  decoderCode: {fileID: 11400000, guid: e2ab271730b6b64448856c793dda8031, type: 2}
+  countOfDemodulationCharacters: 93
+  isPicture: 0
+  text: "Flight 77-Alpha, this is Lumi\xE8re Station. You are denied boarding. Reason:
+    Expired insurance. Divert to alternate vector. I repeat. Flight 77-Alpha, this
+    is Lumi\xE8re Station. You are denied boarding. Reason: Expired insurance. Divert
+    to alternate vector."
+  image: {fileID: 0}
+  isNoUrgency: 1
+  urgency: 75
+  noisePower: 0

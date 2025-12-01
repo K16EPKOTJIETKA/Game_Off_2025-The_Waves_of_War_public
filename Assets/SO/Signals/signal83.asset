@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b1ccc2b9133ec4a817fdfa261138fe, type: 3}
+  m_Name: signal83
+  m_EditorClassIdentifier: 
+  id: 83
+  importance: 14
+  formula: 0
+  necessaryReinforcement: 49
+  amplitude: 0.465
+  frequency: 99
+  signalType: 1
+  demodulationProtocol: 0
+  decoderCode: {fileID: 11400000, guid: 2f6ca33f5ba8e5149a12a885efe51c6c, type: 2}
+  countOfDemodulationCharacters: 182
+  isPicture: 0
+  text: "Source: Excalibur Station \nThe hull integrity sensors in Sector 9, beneath
+    the habitation compartments, are going crazy. Yesterday's heavy cruiser launch
+    has caused welds in the outer hull to come loose. There are microcracks there.
+    If someone docks to Airlock 9 with a rigid coupling, a chunk of the wall will
+    simply fall out. Lock the docking port."
+  image: {fileID: 0}
+  isNoUrgency: 0
+  urgency: 200
+  noisePower: 0

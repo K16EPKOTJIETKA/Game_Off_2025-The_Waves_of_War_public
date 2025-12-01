@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce7c7887ce6c6547a63e166b67fd87a, type: 3}
+  m_Name: message13
+  m_EditorClassIdentifier: 
+  id: 13
+  signalId: 0
+  message: 'Excellent work, fighter! We were able to prevent the destruction of Ceres
+    and destroy the enemy fleet! Just now, the Earthlings themselves proposed a diplomatic
+    meeting. In the entire history of the Belt, we are the first to successfully
+    defend our rights. Even if people don''t know your name, the Coalition is proud
+    of you and will ensure a comfortable, peaceful life for you and your family.
+    The Coalition''s ship will arrive for you within a week. End of communication.
+
+
+    The
+    Free Belt Coalition'
