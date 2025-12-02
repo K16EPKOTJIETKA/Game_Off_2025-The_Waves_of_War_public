@@ -22,6 +22,7 @@ At this critical moment you arrive at a secret station. Your mission is to inter
 Only your accuracy and reaction speed will decide whether the Asteroid Belt can gain its long awaited freedom.
 Your actions will shape the course of the war and the future of the entire Belt.
 
+[Update from 02.12.25] on branch "update_02_12_25". Bugs with camera were fix.  
 
 Copyright (c) 2025 Danilov Viacheslav. All rights reserved.
 The code is available for educational purposes only. You are not allowed to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
