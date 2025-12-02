@@ -62,6 +62,7 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         _characterController.Move((GetForward() * _move.y + GetRight() * _move.x) * Time.deltaTime * currentSpeed);
+        //OnLook();
     }
 
     private Vector3 GetForward()
@@ -78,5 +79,12 @@ public class PlayerController : MonoBehaviour
         right.y = 0;
 
         return right.normalized;
+    }
+
+    Vector2 look;
+
+    public void OnLook(InputValue val)
+    {
+        look = val.Get<Vector2>();
     }
 }

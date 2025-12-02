@@ -45,6 +45,11 @@ namespace MainEntry
             InitializeDependencyInjection();
         }
 
+        private void Start()
+        {
+            Application.targetFrameRate = -1;
+        }
+
         private void InitializeDependencyInjection()
         {
             _context = new Context();
